@@ -1,0 +1,56 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "someSidebar": [
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "items": [
+          {
+            "type": "link",
+            "label": "This file is intentionally left blank.",
+            "href": "/docs/intro",
+            "docId": "intro"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Events",
+        "items": [
+          {
+            "type": "link",
+            "label": "events",
+            "href": "/docs/events",
+            "docId": "events"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "events": {
+      "id": "events",
+      "title": "events",
+      "description": "// filepath: /workspaces/velvetcircle/my-docusaurus-website/docs/events.md",
+      "sidebar": "someSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "This file is intentionally left blank.",
+      "description": "",
+      "sidebar": "someSidebar"
+    }
+  }
+}

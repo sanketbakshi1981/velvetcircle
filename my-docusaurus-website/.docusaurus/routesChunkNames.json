@@ -1,0 +1,74 @@
+{
+  "/__docusaurus/debug-314": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugda-1-e28"
+    }
+  },
+  "/__docusaurus/debug/config-1d4": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugda-1-e28"
+    }
+  },
+  "/__docusaurus/debug/content-6c3": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugda-1-e28"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-c48": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugda-1-e28"
+    }
+  },
+  "/__docusaurus/debug/metadata-bb1": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugda-1-e28"
+    }
+  },
+  "/__docusaurus/debug/registry-27d": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugda-1-e28"
+    }
+  },
+  "/__docusaurus/debug/routes-1c6": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugda-1-e28"
+    }
+  },
+  "/events-b4b": {
+    "__comp": "__comp---site-src-pages-events-tsx-3-df-40c",
+    "__context": {
+      "plugin": "plugin---eventsa-02-2e6"
+    },
+    "config": "config---events-5-e-9-da1"
+  },
+  "/docs-088": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-1-b-5-db6"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/events-5c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-eventsd-70-861"
+  },
+  "/docs/intro-13c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/-24b": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---eventsa-02-2e6"
+    },
+    "config": "config---events-5-e-9-da1"
+  }
+}

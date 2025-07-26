@@ -1,0 +1,20 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "This file is intentionally left blank.",
+  "description": "",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "editUrl": "https://github.com/your-github-username/my-docusaurus-website/edit/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "events",
+    "permalink": "/docs/events"
+  }
+}

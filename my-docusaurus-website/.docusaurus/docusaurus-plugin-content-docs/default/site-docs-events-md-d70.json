@@ -1,0 +1,20 @@
+{
+  "unversionedId": "events",
+  "id": "events",
+  "title": "events",
+  "description": "// filepath: /workspaces/velvetcircle/my-docusaurus-website/docs/events.md",
+  "source": "@site/docs/events.md",
+  "sourceDirName": ".",
+  "slug": "/events",
+  "permalink": "/docs/events",
+  "draft": false,
+  "editUrl": "https://github.com/your-github-username/my-docusaurus-website/edit/main/docs/events.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "This file is intentionally left blank.",
+    "permalink": "/docs/intro"
+  }
+}

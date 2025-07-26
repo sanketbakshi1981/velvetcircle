@@ -1,0 +1,124 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/your-github-username/my-docusaurus-website/edit/main/docs",
+          "editUrlLocalized": "https://github.com/your-github-username/my-docusaurus-website/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/workspaces/velvetcircle/my-docusaurus-website/sidebars.js",
+          "contentPath": "/workspaces/velvetcircle/my-docusaurus-website/docs",
+          "contentPathLocalized": "/workspaces/velvetcircle/my-docusaurus-website/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "events",
+              "id": "events",
+              "title": "events",
+              "description": "// filepath: /workspaces/velvetcircle/my-docusaurus-website/docs/events.md",
+              "source": "@site/docs/events.md",
+              "sourceDirName": ".",
+              "slug": "/events",
+              "permalink": "/docs/events",
+              "draft": false,
+              "editUrl": "https://github.com/your-github-username/my-docusaurus-website/edit/main/docs/events.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "This file is intentionally left blank.",
+                "permalink": "/docs/intro"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "This file is intentionally left blank.",
+              "description": "",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/your-github-username/my-docusaurus-website/edit/main/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "someSidebar",
+              "next": {
+                "title": "events",
+                "permalink": "/docs/events"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "someSidebar": [
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "intro"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Events",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "events"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/events",
+        "source": "@site/src/pages/events.tsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.tsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}
